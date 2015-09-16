@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說十二遊經
+#+DATE: 2015-08-30 19:35:27.103920
+#+PROPERTY: JUAN 0

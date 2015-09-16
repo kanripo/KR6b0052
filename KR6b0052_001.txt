@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:35:26.935810
+#+DATE: 2015-08-30 19:35:27.908799
 #+TITLE: 佛說十二遊經
 #+PROPERTY: CBETA_ID T04n0195
 #+PROPERTY: ID KR6b0052
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 4, No. 195
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6b0052_T_001-0146a> 
 #+PROPERTY: JUAN 1
 ¶
-No.195¶
-
- 佛說十二遊經¶
+No. 195¶
+佛說十二遊經¶
 ¶
 東晉西域沙門迦留陀伽譯¶
 
@@ -121,7 +120,7 @@ No.195¶
 玉女，菩薩與八萬四千天子，乘白象寶車來¶
 下。
 
-時，白淨王夫人中寐，見白象髣髴，寐寤惕¶
+時，白淨王夫人中寐，見白象，寐寤惕¶
 驚，寤以告王。¶
 
 菩薩父名白淨，其父，兄弟四人。白淨王有二¶

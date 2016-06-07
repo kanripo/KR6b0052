@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:35:26.935810
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:00
 #+TITLE: 佛說十二遊經
 #+PROPERTY: CBETA_ID T04n0195
 #+PROPERTY: ID KR6b0052
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 4, No. 195
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6b0052_T_001-0146a> 
 #+PROPERTY: JUAN 1
 ¶
-No.195¶
-
- 佛說十二遊經¶
+No. 195¶
+佛說十二遊經¶
 ¶
 東晉西域沙門迦留陀伽譯¶
 
@@ -68,9 +67,9 @@ No.195¶
 血化成人。」
 
 却後十月，左即成男，右即成女，於¶
-是便姓瞿曇氏。
+是便姓瞿曇氏，一名舍夷仁。
 
-一名舍夷仁，賢劫來，始為¶
+賢劫來，始為¶
 寶如來釋迦，越壽五百萬歲；自下二十五王，¶
 其壽三百萬歲；文陀竭王壽百萬歲，頂生王¶
 遮迦越，左髀右髀王，皆壽十萬歲；從歡喜王¶
@@ -94,9 +93,9 @@ No.195¶
 
 於是後，有師子命車王，名白¶
 淨，是菩薩父。計菩薩身終始，并前後八萬四¶
-千。
+千遮迦越王，名瞿曇氏，純熟之姓。
 
-遮迦越王，名瞿曇氏，純熟之姓。菩薩在兜¶
+菩薩在兜¶
 術天上，意欲下生，觀於天下，誰國可生？言：「唯¶
 白淨王家，可生身。」
 
